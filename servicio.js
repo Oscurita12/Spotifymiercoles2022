@@ -23,7 +23,7 @@ let dato1='client_id=28e516b95be149c4b1fa2d898c9b9f52'
 let dato2='client_secret=2a7f950fee974ef784a6de59a17f8074'
 let dato3='grant_type=client_credentials'
 
-//Configuro la petición 
+//3. Configuro la petición 
 const PETICIONPOST={
     method:"POST",
     headers:{
